@@ -1,4 +1,4 @@
-#pharmacy_counting
+# pharmacy_counting
 
 For this problem, I first read the data into a dictionary with key is the drug name and value is a list consisting of [total_cost, names of individuals prescribed the medication]. Dictionary is the optimal choice of data structure for this task since the dictionary uses hash-table so accessing to a dictionary item is fast and scalable, at order of O(1).
 
